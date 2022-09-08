@@ -1,0 +1,145 @@
+08 Sep 2022 22:03:11,482 TestNG-tests-1 - Running test cases on env: null
+08 Sep 2022 22:03:11,484 TestNG-tests-1 - Browser name is : chrome
+08 Sep 2022 22:03:11,487 TestNG-tests-1 - Running test on chrome....
+08 Sep 2022 22:03:11,487 TestNG-tests-1 - Running tests on chrome -- local
+08 Sep 2022 22:03:11,863 TestNG-tests-1 - adding chrome options....
+08 Sep 2022 22:03:17,253 TestNG-tests-1 - By locator is : By.id: input-password
+08 Sep 2022 22:03:17,364 TestNG-tests-1 - By locator is : By.xpath: //button[text()='Login']
+08 Sep 2022 22:03:18,633 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:19,078 TestNG-tests-1 - By locator is : By.linkText: MacBook Pro
+08 Sep 2022 22:03:19,643 TestNG-tests-1 - By locator is : By.cssSelector: div#content h1
+08 Sep 2022 22:03:19,937 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:20,262 TestNG-tests-1 - By locator is : By.linkText: MacBook Air
+08 Sep 2022 22:03:20,846 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:21,203 TestNG-tests-1 - By locator is : By.linkText: MacBook Pro
+08 Sep 2022 22:03:21,900 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:22,248 TestNG-tests-1 - By locator is : By.linkText: Samsung SyncMaster 941BW
+08 Sep 2022 22:03:22,776 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:23,116 TestNG-tests-1 - By locator is : By.linkText: iMac
+08 Sep 2022 22:03:24,647 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:25,182 TestNG-tests-1 - By locator is : By.linkText: MacBook Air
+08 Sep 2022 22:03:25,700 TestNG-tests-1 - By locator is : By.cssSelector: div#content h1
+08 Sep 2022 22:03:25,889 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:26,330 TestNG-tests-1 - By locator is : By.linkText: MacBook Pro
+08 Sep 2022 22:03:26,741 TestNG-tests-1 - By locator is : By.cssSelector: div#content h1
+08 Sep 2022 22:03:26,921 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:27,279 TestNG-tests-1 - By locator is : By.linkText: Samsung SyncMaster 941BW
+08 Sep 2022 22:03:27,652 TestNG-tests-1 - By locator is : By.cssSelector: div#content h1
+08 Sep 2022 22:03:27,811 TestNG-tests-1 - By locator is : By.cssSelector: div#search button
+08 Sep 2022 22:03:28,129 TestNG-tests-1 - By locator is : By.linkText: iMac
+08 Sep 2022 22:03:28,500 TestNG-tests-1 - By locator is : By.cssSelector: div#content h1
+08 Sep 2022 22:03:29,358 TestNG-tests-1 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,359 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,361 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+08 Sep 2022 22:03:29,362 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+08 Sep 2022 22:03:29,362 TestNG-tests-1 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+08 Sep 2022 22:03:29,507 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,508 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,508 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+08 Sep 2022 22:03:29,508 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+08 Sep 2022 22:03:29,508 TestNG-tests-1 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+08 Sep 2022 22:03:29,652 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,652 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,653 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+08 Sep 2022 22:03:29,653 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+08 Sep 2022 22:03:29,653 TestNG-tests-1 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+08 Sep 2022 22:03:29,667 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,667 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,668 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+08 Sep 2022 22:03:29,668 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+08 Sep 2022 22:03:29,668 TestNG-tests-1 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+08 Sep 2022 22:03:29,670 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,671 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,671 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+08 Sep 2022 22:03:29,671 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+08 Sep 2022 22:03:29,671 TestNG-tests-1 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+08 Sep 2022 22:03:29,674 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,674 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,675 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+08 Sep 2022 22:03:29,676 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+08 Sep 2022 22:03:29,676 TestNG-tests-1 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+08 Sep 2022 22:03:29,679 TestNG-tests-1 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,679 TestNG-tests-1 - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,680 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,680 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+08 Sep 2022 22:03:29,680 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+08 Sep 2022 22:03:29,680 TestNG-tests-1 - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+08 Sep 2022 22:03:29,690 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,690 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,690 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+08 Sep 2022 22:03:29,690 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+08 Sep 2022 22:03:29,691 TestNG-tests-1 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+08 Sep 2022 22:03:29,696 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,696 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,697 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+08 Sep 2022 22:03:29,697 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+08 Sep 2022 22:03:29,697 TestNG-tests-1 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+08 Sep 2022 22:03:29,698 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,698 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,699 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+08 Sep 2022 22:03:29,699 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+08 Sep 2022 22:03:29,699 TestNG-tests-1 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+08 Sep 2022 22:03:29,709 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,710 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,710 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+08 Sep 2022 22:03:29,710 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+08 Sep 2022 22:03:29,710 TestNG-tests-1 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+08 Sep 2022 22:03:29,723 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,724 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,724 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+08 Sep 2022 22:03:29,724 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+08 Sep 2022 22:03:29,724 TestNG-tests-1 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+08 Sep 2022 22:03:29,743 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,744 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,744 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+08 Sep 2022 22:03:29,744 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+08 Sep 2022 22:03:29,744 TestNG-tests-1 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+08 Sep 2022 22:03:29,754 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,755 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,757 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,759 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,760 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,760 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,762 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,763 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,764 TestNG-tests-1 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+08 Sep 2022 22:03:29,764 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,764 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,765 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found
+08 Sep 2022 22:03:29,765 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found
+08 Sep 2022 22:03:29,765 TestNG-tests-1 - Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl"
+08 Sep 2022 22:03:29,766 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,766 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,767 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+08 Sep 2022 22:03:29,767 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+08 Sep 2022 22:03:29,767 TestNG-tests-1 - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+08 Sep 2022 22:03:29,770 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,771 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,771 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found
+08 Sep 2022 22:03:29,771 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found
+08 Sep 2022 22:03:29,771 TestNG-tests-1 - Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl"
+08 Sep 2022 22:03:29,772 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,773 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,773 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found
+08 Sep 2022 22:03:29,773 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found
+08 Sep 2022 22:03:29,773 TestNG-tests-1 - Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl"
+08 Sep 2022 22:03:29,774 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,774 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,775 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found
+08 Sep 2022 22:03:29,775 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found
+08 Sep 2022 22:03:29,775 TestNG-tests-1 - Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl"
+08 Sep 2022 22:03:29,776 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,776 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,776 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+08 Sep 2022 22:03:29,776 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+08 Sep 2022 22:03:29,776 TestNG-tests-1 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+08 Sep 2022 22:03:29,803 TestNG-tests-1 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,804 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,804 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+08 Sep 2022 22:03:29,804 TestNG-tests-1 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+08 Sep 2022 22:03:29,804 TestNG-tests-1 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+08 Sep 2022 22:03:29,805 TestNG-tests-1 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+08 Sep 2022 22:03:29,805 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+08 Sep 2022 22:03:29,805 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+08 Sep 2022 22:03:29,806 TestNG-tests-1 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+08 Sep 2022 22:03:29,806 TestNG-tests-1 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

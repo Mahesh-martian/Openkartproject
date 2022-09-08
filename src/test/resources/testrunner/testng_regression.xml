@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Opencart App Test Regression Suite" thread-count="4"
+	parallel="tests" verbose="4">
+
+
+	<listeners>
+		<listener
+			class-name="com.Opk.listeners.ListnerExtentReport" />
+		<listener
+			class-name="com.Opk.listeners.ListnerAllure" />
+		<listener
+			class-name="com.Opk.listeners.TransformAnnotation" />
+	</listeners>
+
+	<test name="Login Page Test_ch_90">
+		<parameter name="browser" value="chrome" />
+		<parameter name="browserversion" value="90.0" />
+		<classes>
+			<class name="com.qa.opencart.tests.LoginPageTest" />
+		</classes>
+	</test>
+
+	<test name="Login Page Test_ch_100">
+		<parameter name="browser" value="chrome" />
+		<parameter name="browserversion" value="100.0" />
+		<classes>
+			<class name="com.qa.opencart.tests.LoginPageTest" />
+		</classes>
+	</test>
+
+	<test name="Accounts Page Test_ff_92">
+		<parameter name="browser" value="firefox" />
+		<parameter name="browserversion" value="92.0" />
+
+		<classes>
+			<class name="com.qa.opencart.tests.AccountsPageTest" />
+		</classes>
+	</test>
+
+	<test name="Accounts Page Test_ch_100">
+		<parameter name="browser" value="chrome" />
+		<parameter name="browserversion" value="100.0" />
+
+		<classes>
+			<class name="com.qa.opencart.tests.AccountsPageTest" />
+		</classes>
+	</test>
+
+	<test name="Product Search Test_ch_100">
+		<parameter name="browser" value="chrome" />
+		<parameter name="browserversion" value="100.0" />
+
+		<classes>
+			<class name="com.qa.opencart.tests.ProductSearchTest" />
+		</classes>
+	</test>
+
+	<test name="Product Search Test_ff_92">
+		<parameter name="browser" value="firefox" />
+		<parameter name="browserversion" value="92.0" />
+
+		<classes>
+			<class name="com.qa.opencart.tests.ProductSearchTest" />
+		</classes>
+	</test>
+
+
+
+</suite>
